@@ -17,7 +17,7 @@ function App() {
         >
           Learn React -- atb -- 
         </a>
-	<a>ne yaparsan yap guzel olsun..</a>
+	<a>guzel olsun..</a>
 	+
 	<a>TESLA is a nice CAR</a>
 
